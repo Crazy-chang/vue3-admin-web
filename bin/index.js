@@ -8,7 +8,7 @@ const Loading = ora("Loading...")
 
 const githubName = {
     vue2:'vue3-ts-vite-project',
-    vue3:'vue3-ts-vite-project',
+    vue3:'vue3-template',
     uniapp:'vue3-ts-vite-project',
     react:'react-stady',
 }
